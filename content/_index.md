@@ -78,9 +78,9 @@ sections:
           description: Taught Linear Algebra, Discrete Mathematics etc. Researched in Spectral Graph Theory.
     design:
       columns: '2'
-  - block: collection
+  - block: tag_cloud
     content:
-      title: blog
+      title: Blog
     design:
       columns: '1'        
   - block: contact
