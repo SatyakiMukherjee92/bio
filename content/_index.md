@@ -97,7 +97,7 @@ sections:
       address:
         street: Baierbrunner Str. 44
         city: Munich
-        region: Bavaria
+        region: Germany
         postcode: '81379'
         country: Germany
         country_code: Germany     
