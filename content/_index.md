@@ -78,7 +78,8 @@ sections:
           description: Taught Linear Algebra, Discrete Mathematics etc. Researched in Spectral Graph Theory.
     design:
       columns: '2'
-  - block: blog         
+  - block: blog
+    content: https://gamecalc.wordpress.com/         
   - block: contact
     id: contact
     content:
