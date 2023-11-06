@@ -85,7 +85,8 @@ sections:
       title: Blog
       subtitle: Selected posts
       text: The [false equivalency of proof rhetorics](https://gamecalc.wordpress.com/2022/11/07/the-false-equivalency-of-proof-rhetorics/) <br />   
-            My [dissertation thesis](https://gamecalc.wordpress.com/2021/05/11/my-dissertation-thesis/)
+            My [dissertation thesis](https://gamecalc.wordpress.com/2021/05/11/my-dissertation-thesis/) <br />
+            Archive [81 and the adaptable politics of adaptation](https://gamecalc.wordpress.com/2022/01/20/archive-81-and-the-adaptable-politics-of-adaptation/)
     design:
       columns: '2'        
   - block: contact
