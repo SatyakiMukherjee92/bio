@@ -83,7 +83,7 @@ sections:
     id: blog
     content:
       title: Blog
-      subtitle: Recent posts
+      subtitle: Selected posts
       text: The [false equivalency of proof rhetorics](https://gamecalc.wordpress.com/2022/11/07/the-false-equivalency-of-proof-rhetorics/) <br />   
             My [dissertation thesis](https://gamecalc.wordpress.com/2021/05/11/my-dissertation-thesis/)
     design:
