@@ -78,7 +78,7 @@ skills:
       - name: Video Games and Media
         description: ''
         percent: 100
-        icon: cat
+        icon: dog
         icon_pack: fas
       - name: Cooking
         description: ''
