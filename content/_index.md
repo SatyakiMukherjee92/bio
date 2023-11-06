@@ -82,7 +82,7 @@ sections:
     content:
       title: Blog
       subtitle: Recent posts
-      text: # the false equivalency of proof rhetorics
+      text: [the false equivalency of proof rhetorics](https://gamecalc.wordpress.com/2022/11/07/the-false-equivalency-of-proof-rhetorics/)
     # the-false-equivalency-of-proof-rhetorics (https://gamecalc.wordpress.com/2022/11/07/the-false-equivalency-of-proof-rhetorics/)
     design:
       columns: '2'        
