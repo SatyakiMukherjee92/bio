@@ -84,8 +84,7 @@ sections:
     content:
       title: Blog
       subtitle: Recent posts
-      text: The [false equivalency of proof rhetorics](https://gamecalc.wordpress.com/2022/11/07/the-false-equivalency-of-proof-rhetorics/) 
-    
+      text: The [false equivalency of proof rhetorics](https://gamecalc.wordpress.com/2022/11/07/the-false-equivalency-of-proof-rhetorics/)      
             My [dissertation thesis](https://gamecalc.wordpress.com/2021/05/11/my-dissertation-thesis/)
     design:
       columns: '2'        
