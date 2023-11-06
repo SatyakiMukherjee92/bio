@@ -81,8 +81,11 @@ sections:
   - block: experience
     content:
       title: Blog
+      items:
+        -  title:  the-false-equivalency-of-proof-rhetorics
+           company_url : https://gamecalc.wordpress.com/2022/11/07/the-false-equivalency-of-proof-rhetorics/
     design:
-      columns: '1'        
+      columns: '2'        
   - block: contact
     id: contact
     content:
