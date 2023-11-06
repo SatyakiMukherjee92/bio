@@ -79,6 +79,7 @@ sections:
     design:
       columns: '2'
   - block: markdown
+    id: blog
     content:
       title: Blog
       subtitle: Recent posts
