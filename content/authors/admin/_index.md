@@ -73,17 +73,17 @@ skills:
       - name: Systems Theory
         description: ''
         percent: 60
-        icon: person-hiking
+        icon: diagram-project
         icon_pack: fas
       - name: Video Games and Media
         description: ''
         percent: 100
-        icon: dog
+        icon: film
         icon_pack: fas
       - name: Cooking
         description: ''
         percent: 80
-        icon: camera-retro
+        icon: kitchen-set
         icon_pack: fas
 
 # Social/Academic Networking
