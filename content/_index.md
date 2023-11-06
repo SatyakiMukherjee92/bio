@@ -80,7 +80,9 @@ sections:
       columns: '2'
   - block: blog
     content:
-      title: https://gamecalc.wordpress.com/         
+      title: https://gamecalc.wordpress.com/
+    design:
+      columns: '1'        
   - block: contact
     id: contact
     content:
