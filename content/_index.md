@@ -65,7 +65,6 @@ sections:
         - title: 
           company: University of California, Berkeley
           company_url: ''
-          company_logo: org-gc
           location: California
           date_start: '2021-01-01'
           date_end: ''
@@ -78,7 +77,7 @@ sections:
         - title: Graduate Student Instructor/Researcher
           company: University of California, Berkeley
           company_url: ''
-          company_logo: org-c
+          company_logo: org-gc
           location: California
           date_start: '2016-01-01'
           date_end: '2020-12-31'
