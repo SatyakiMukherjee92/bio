@@ -72,7 +72,7 @@ sections:
           description: Researching in the theory of Artificial Intelligence.
         - title: Graduate Student Instructor/Researcher
           company: University of California, Berkeley
-          company_url: ''
+          company_url: 'https://www.berkeley.edu/'
           location: California
           date_start: '2015-08-19'
           date_end: '2021-05-14'
