@@ -77,7 +77,8 @@ sections:
           date_end: '2021-05-14'
           description: Taught Linear Algebra, Discrete Mathematics etc. Researched in Spectral Graph Theory.
     design:
-      columns: '2'        
+      columns: '2'
+  - block: blog         
   - block: contact
     id: contact
     content:
