@@ -80,7 +80,7 @@ sections:
     design:
       columns: '2'
   - block: markdown
-    id: info
+    id: about
     content:
       title: About
       text: My [resume/CV](uploads/resume.pdf) <br /> 
