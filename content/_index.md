@@ -81,7 +81,8 @@ sections:
       columns: '2'
   - block: markdown
     id: Info
-    content: About
+    content:
+    title: About
     text: My
           My [Google Scholar](https://github.com/SatyakiMukherjee92)
     design:
