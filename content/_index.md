@@ -69,7 +69,7 @@ sections:
           location: Munich
           date_start: '2022-01-03'
           date_end: ''
-          description: Researching in the theory of Artificial Intelligence.
+          description: Researching in the theory of Artificial Intelligence. Taught Seminar and practical courses on emerging trends and reproducibility in Machine Learning.
         - title: Graduate Student Instructor/Researcher
           company: University of California, Berkeley
           company_url: 'https://www.berkeley.edu/'
