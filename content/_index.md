@@ -83,7 +83,7 @@ sections:
     id: info
     content:
       title: About
-      text: My [resums/CV](uploads/resume.pdf) <br /> 
+      text: My [resume/CV](uploads/resume.pdf) <br /> 
             My [Google Scholar](https://scholar.google.com/citations?user=Wk0Y_g4AAAAJ)
     design:
       columns: '2'
