@@ -80,6 +80,11 @@ sections:
     design:
       columns: '2'
   - block: markdown
+    id: Info
+    content: About
+    text: My [Resume/CV](uploads/resume.pdf)<br />
+          My [Google Scholar](https://github.com/SatyakiMukherjee92)    
+  - block: markdown
     id: blog
     content:
       title: Blog
