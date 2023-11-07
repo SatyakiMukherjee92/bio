@@ -80,11 +80,10 @@ sections:
     design:
       columns: '2'
   - block: markdown
-    id: Info
+    id: info
     content:
-    title: About
-    text: My
-          My [Google Scholar](https://github.com/SatyakiMukherjee92)
+      title: About
+      text: My
     design:
       columns: '2'
   - block: markdown
