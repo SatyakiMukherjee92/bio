@@ -83,7 +83,8 @@ sections:
     id: info
     content:
       title: About
-      text: My [Google Scholar](https://scholar.google.com/citations?user=Wk0Y_g4AAAAJ)
+      text: My [resums/CV](uploads/resume.pdf)
+            My [Google Scholar](https://scholar.google.com/citations?user=Wk0Y_g4AAAAJ)
     design:
       columns: '2'
   - block: markdown
