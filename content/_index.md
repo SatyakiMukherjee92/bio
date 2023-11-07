@@ -82,7 +82,8 @@ sections:
   - block: markdown
     id: Info
     content: About
-    text: My [Resume/CV](uploads/resume.pdf)<br />
+    text: My
+    # [Resume/CV](uploads/resume.pdf)<br />
           My [Google Scholar](https://github.com/SatyakiMukherjee92)
     design:
       columns: '2'
