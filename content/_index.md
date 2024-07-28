@@ -69,7 +69,7 @@ sections:
           location: Singapore
           date_start: '2024-06-14'
           date_end: ''
-          description: Researching in the theory of Artificial Intelligence. Taught Seminar and practical courses on emerging trends and reproducibility in Machine Learning.
+          description: Researching in the Probability and Statistics.
         - title: Postdoctoral Researcher in TFAI
           company: Technical University of Munich
           company_url: 'https://www.cs.cit.tum.de/tfai/home/'
