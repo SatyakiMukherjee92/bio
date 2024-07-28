@@ -63,12 +63,19 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Research fellow at NUS
+          company: National University of Singapore
+          company_url: 'https://www.math.nus.edu.sg/'
+          location: Singapore
+          date_start: '2024-06-14'
+          date_end: ''
+          description: Researching in the theory of Artificial Intelligence. Taught Seminar and practical courses on emerging trends and reproducibility in Machine Learning.
         - title: Postdoctoral Researcher in TFAI
           company: Technical University of Munich
           company_url: 'https://www.cs.cit.tum.de/tfai/home/'
           location: Munich
           date_start: '2022-01-03'
-          date_end: ''
+          date_end: '2023-12-31'
           description: Researching in the theory of Artificial Intelligence. Taught Seminar and practical courses on emerging trends and reproducibility in Machine Learning.
         - title: Graduate Student Instructor/Researcher
           company: University of California, Berkeley
@@ -105,14 +112,14 @@ sections:
       text: 
       # Contact (add or remove contact options as necessary)
       email: satyaki.mukhyo@gmail.com
-      phone: +49 178 311 9863
+      phone: +65 8160 6684
       address:
-        street: Baierbrunner Str. 44
-        city: Munich
-        region: Germany
-        postcode: '81379'
-        country: Germany
-        country_code: Germany     
+        street: 1A Lutheran
+        city: Singapore
+        region: Singapore
+        postcode: '267745'
+        country: Singapore
+        country_code: Singapore    
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
