@@ -21,8 +21,8 @@ role: Researcher in Theory of AI
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Technical University of Munich
-    url: https://www.tum.de/en/
+  - name: National University of Singapore
+    url: https://www.math.nus.edu.sg/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Probability, Statistics, Machine Learning and Linear Algebra.
