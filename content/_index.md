@@ -99,7 +99,7 @@ sections:
     content:
       title: Lecture Notes
       subtitle: Geometry of Polynomials
-      text: Chapter 1 : Laplacian, Expansion, Eigenvalues and Cheeger Ineuqality
+      text: Chapter 1 Laplacian, Expansion, Eigenvalues and Cheeger Ineuqality
     design:
       columns: '2'
   - block: markdown
