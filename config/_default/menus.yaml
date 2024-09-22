@@ -13,6 +13,9 @@ main:
   - name: About
     url: '#about'
     weight: 30
+  - name: Lecture Notes
+    url: '#Lecture Notes'
+    weight: 30
   - name: Blog
     url: '#blog'
     weight: 40
