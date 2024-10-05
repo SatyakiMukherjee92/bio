@@ -100,7 +100,8 @@ sections:
       title: Lecture Notes
       subtitle: Geometry of Polynomials
       text: Chapter 1 [Laplacian, Expansion, Eigenvalues and Cheeger Ineuqality](uploads/Geometry_of_Polynomials/Geometry_of_Polynomials_Chapter_1.pdf) <br />
-            Chapter 2 [Alon Boppana and Bipartite Ramanujam Grapns of all sizes](uploads/Geometry_of_Polynomials/Geometry_of_Polynomials_Chapter_2.pdf) <br /> 
+            Chapter 2 [Alon Boppana and Bipartite Ramanujam Grapns of all sizes](uploads/Geometry_of_Polynomials/Geometry_of_Polynomials_Chapter_2.pdf) <br />
+            Chapter 3 [Real Stability and Stability preserving Operators](uploads/Geometry_of_Polynomials/Geometry_of_Polynomials_Chapter_3.pdf) <br />
     design:
       columns: '2'
   - block: markdown
